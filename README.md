@@ -79,7 +79,7 @@ The dataset includes:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Bussiness_Sales_Performance_Dashboard.png" width="800">
+  <img src="Bussiness_Sales_Performance_Dashboard .png" width="800">
 </p>
 
 ---

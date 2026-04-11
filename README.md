@@ -6,9 +6,9 @@
 
 ## 🔍 Project Overview
 
-This project focuses on analyzing business sales data to extract meaningful insights and support data-driven decision-making.
+This project focuses on analyzing business sales data to understand performance trends and support better decision-making.
 
-A dashboard was developed using Python to visualize trends, performance, and relationships within the dataset.
+A dashboard was created using Python to visualize sales, profit, and product performance across different categories and regions.
 
 ---
 
@@ -30,7 +30,7 @@ The dataset includes:
 * 💰 Profit values
 * 📦 Quantity sold
 * 🏷️ Product details
-* 🌍 Category & Region information
+* 🌍 Category and region information
 
 ---
 
@@ -39,7 +39,7 @@ The dataset includes:
 ✔ Monthly Revenue Trend (Line Chart)
 ✔ Top 10 Selling Products (Bar Chart)
 ✔ Sales Contribution by Category (Pie Chart)
-✔ Sales Distribution Analysis (Box Plot)
+✔ Sales Distribution (Box Plot)
 ✔ Regional Sales Performance
 ✔ Sales vs Profit Relationship (Scatter Plot)
 ✔ Profit by Category (Bar Chart)
@@ -49,20 +49,20 @@ The dataset includes:
 
 ## 💡 Key Insights
 
-* 📈 Sales show trends indicating seasonal demand
-* 🏆 Few products contribute most of the revenue
-* 🌍 Regional performance varies across markets
+* 📈 Sales show patterns that indicate seasonal trends
+* 🏆 A few products contribute to most of the revenue
+* 🌍 Sales performance varies across different regions
 * 💡 High sales do not always mean high profit
-* 🔗 Relationships exist between sales and profit
+* 🔗 Relationships exist between sales, quantity, and profit
 
 ---
 
 ## 💼 Business Recommendations
 
-* Focus on high-performing products
-* Improve low-performing regions
-* Optimize pricing strategies
-* Monitor profit margins carefully
+* Focus more on high-performing products
+* Improve strategies in low-performing regions
+* Optimize pricing to increase profit
+* Monitor product-level performance regularly
 
 ---
 
@@ -96,15 +96,15 @@ The dataset includes:
 
 ## 🙏 Acknowledgement
 
-I would like to thank *Future Interns* for providing this opportunity to work on real-world datasets and enhance my data analytics skills.
+I would like to thank *Future Interns* for providing this opportunity to work on real-world datasets and improve my data analytics skills.
 
 ---
 
 ## 📌 Future Improvements
 
-* Build interactive dashboards using Power BI or Tableau
+* Build an interactive dashboard using Power BI or Tableau
 * Add forecasting models for sales prediction
-* Perform deeper product analysis
+* Perform deeper product-level analysis
 
 ---
 
